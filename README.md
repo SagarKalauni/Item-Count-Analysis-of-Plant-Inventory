@@ -168,6 +168,11 @@ total items that go through Item count analysis (because item count analysis is 
 Total items counted as of today 
 ![Screenshot 2024-06-23 131051](https://github.com/SagarKalauni/Item-Count-Analysis-of-Plant-Inventory/assets/141047160/f48406c4-459c-45c6-a0ee-628232223719)
 
+So my final dashboard look like following:
+![Screenshot 2024-06-23 134252](https://github.com/SagarKalauni/Item-Count-Analysis-of-Plant-Inventory/assets/141047160/9b0a3061-7e04-4164-8c7d-eb54b2decbde)
+
+Summary on the basis of count[Note this is dynamic numbers will change every day!]
+![Screenshot 2024-06-23 134316](https://github.com/SagarKalauni/Item-Count-Analysis-of-Plant-Inventory/assets/141047160/a964ed24-e1e0-4c3b-a022-32a02857fc81)
 
 
 This dynamic dashboard allows Justin to easily see which items need counting soon, making inventory management efficient and organized. Personally, The project's ongoing impact and utility in daily operations are particularly fulfilling for me as a data analyst, knowing it contributes tangibly to organizational efficiency.
